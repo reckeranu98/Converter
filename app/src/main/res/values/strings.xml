@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="title">Converter Values</string>
+    <string name="subtitle">Length and Temperature</string>
+    <string name="calculate">Calculate</string>
+    <string name="result">Result</string>
+
+    <string name="length_title">Length Conversions</string>
+    <string name="length_cm">Enter length in cm</string>
+    <string name="length_inch">Enter length in inch</string>
+    <string name="length_m">Enter length in metre</string>
+    <string name="length_f">Enter length in feet</string>
+
+
+    <string name="weight_title">Weight Conversions</string>
+    <string name="weight_kg">Enter in kg</string>
+    <string name="weight_lb">Enter in pounds (lb)</string>
+    <string name="weight_g">Enter in gram(g)</string>
+    <string name="weight_mg">Enter in milli gram(mg)</string>
+
+    <string name="temperature_title">Temperature</string>
+    <string name="temp_celsius">Temperature in Celsius</string>
+    <string name="temp_fah">Temperature in Fahrenheit</string>
+    <string name="temp_kelvin">Temperature in Kelvin</string>
+
+</resources>
